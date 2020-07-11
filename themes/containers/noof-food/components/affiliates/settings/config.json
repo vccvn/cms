@@ -1,0 +1,43 @@
+{
+    "name": "Thiết lập Affiliate",
+    "inputs": {
+        "title": {
+            "type": "text",
+            "label": "Tiêu dê (Tùy chọn)"
+        },
+        "affiliate_id":{
+            "type": "select",
+            "label": "Affiliate Website",
+            "call": "get_affiliate_options"
+        },
+        "color": {
+            "type": "colorpicker",
+            "label": "Màu chủ đạo"
+        },
+        "border_color": {
+            "type": "colorpicker",
+            "label": "Màu viền",
+            "placeholder":"Nhập mã màu. Mặc đĩnh theo mã màu chủ đạo"
+        },
+        "logo_background_color": {
+            "type": "colorpicker",
+            "label": "Màu Nền logo",
+            "placeholder":"Nhập mã màu. Mặc đĩnh theo mã màu chủ đạo"
+        },
+        "text_color_color": {
+            "type": "colorpicker",
+            "label": "Màu text logo",
+            "placeholder":"Nhập mã màu. Mặc đĩnh: #fff"
+        },
+        "price_background_color": {
+            "type": "colorpicker",
+            "label": "Màu nền giá",
+            "placeholder":"Nhập mã màu. Mặc đĩnh: #fff"
+        },
+        "price_text_color": {
+            "type": "colorpicker",
+            "label": "Màu text giá",
+            "placeholder":"Nhập mã màu. Mặc đĩnh theo mã màu chủ đạo"
+        }
+    }
+}

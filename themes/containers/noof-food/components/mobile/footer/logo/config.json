@@ -1,0 +1,35 @@
+{
+    "name": "Mobile - Footer: Logo",
+    "inputs": {
+        "custom": {
+            "type": "switch",
+            "label": "Tùy chỉnh",
+            "value_type": "boolean",
+            "check_label": "Cho phép tùy biến logo (mặc định theo General)"
+        },
+        "logo_type": {
+            "type": "radio",
+            "label": "Loại logo",
+            "data": {
+                "text": "Text",
+                "image": "Ảnh"
+            },
+            "default": "text"
+        },
+        "logo": {
+            "type": "file",
+            "label": "Logo"
+        },
+        "logo_icon": {
+            "type": "iconpicker",
+            "label": "Icon Logo",
+            "default": "far fa-star"
+        },
+        "logo_text": {
+            "type": "text",
+            "label": "Text Logo",
+            "placeholder": "Dùng thẻ span dể tô màu"
+        }
+        
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Mobile - Footer: Socials",
+    "inputs": {
+        "style": {
+            "type": "radio",
+            "label": "Style",
+            "data": {
+                "1": "Style 1",
+                "2": "Style 2",
+                "3": "Style 3"
+            },
+            "default": 1
+        },
+        "facebook": {
+            "type": "text",
+            "label": "facebook (Tùy chọn)",
+            "placeholder": "Không bắt buộc (Mặc định thoe thiết lập MXH)"
+        },
+        "twitter": {
+            "type": "text",
+            "label": "twitter (Tùy chọn)",
+            "placeholder": "Không bắt buộc (Mặc định thoe thiết lập MXH)"
+        },
+        "youtube": {
+            "type": "text",
+            "label": "youtube (Tùy chọn)",
+            "placeholder": "Không bắt buộc (Mặc định thoe thiết lập MXH)"
+        },
+        "linkedin": {
+            "type": "text",
+            "label": "Linkedin (Tùy chọn)",
+            "placeholder": "Không bắt buộc (Mặc định thoe thiết lập MXH)"
+        },
+        "instagram": {
+            "type": "text",
+            "label": "instagram (Tùy chọn)",
+            "placeholder": "Không bắt buộc (Mặc định thoe thiết lập MXH)"
+        },
+        "pinterest": {
+            "type": "text",
+            "label": "Pinterest (Tùy chọn)",
+            "placeholder": "Không bắt buộc (Mặc định thoe thiết lập MXH)"
+        }
+        
+    }
+}

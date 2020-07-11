@@ -1,0 +1,12 @@
+{
+    "name": "Mobile - Home: Work Time",
+    "inputs": {
+        "worktimes": {
+            "type": "textarea",
+            "label": "Thời gian làm việc / hiao hàng",
+            "placeholder": "Ngày: thời gian;\nVí dụ: \nT2 - T7 : 06:00 sáng - 06:30 chiều\nCN: 06:30 sáng - 03:00 chiều",
+            "className": "auto-height"
+        }
+        
+    }
+}

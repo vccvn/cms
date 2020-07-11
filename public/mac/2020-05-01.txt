@@ -1,0 +1,8 @@
+[2020-05-01 01:21:22] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /
+[2020-05-01 01:22:59] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /
+[2020-05-01 01:25:14] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /
+[2020-05-01 01:26:56] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /assets/bunas/css/bootstrap.min.css.map
+[2020-05-01 23:19:15] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /
+[2020-05-01 23:20:05] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /
+[2020-05-01 23:20:10] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /
+[2020-05-01 23:39:52] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /assets/bunas/css/bootstrap.min.css.map

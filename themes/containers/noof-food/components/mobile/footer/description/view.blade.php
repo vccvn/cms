@@ -1,0 +1,1 @@
+<p class="footer-desc">{{$data->description?$data->description:$siteinfo->description}}</p>

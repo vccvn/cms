@@ -1,0 +1,11 @@
+[2020-03-13 00:00:17] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /post-login
+[2020-03-13 00:03:13] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /post-login
+[2020-03-13 00:04:25] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /post-login
+[2020-03-13 00:05:47] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /post-login
+[2020-03-13 00:06:35] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /post-login
+[2020-03-13 00:08:00] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /post-login
+[2020-03-13 00:08:01] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /errors/403
+[2020-03-13 00:10:42] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /errors/403
+[2020-03-13 00:33:43] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /login
+[2020-03-13 22:36:44] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /login
+[2020-03-13 22:36:52] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /post-login

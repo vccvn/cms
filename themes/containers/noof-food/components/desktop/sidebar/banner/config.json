@@ -1,0 +1,34 @@
+{
+    "name": "Desktop - Sidebar: Banner",
+    "inputs": {
+        "title": {
+            "type": "text",
+            "label": "Tiêu đề (Tùy chọn)",
+            "placeholder": "Nhập tiêu đề (Không bắt buộc)"
+        },
+        "ads_type": {
+            "type": "radio",
+            "label": "Loại banner",
+            "data": {
+                "banner": "Link và Ảnh",
+                "code": "Mã quảng cáo"
+            }
+        },
+        "banner": {
+            "type": "file",
+            "label": "Banner"
+        },
+        "link": {
+            "type": "text",
+            "label": "Liên kết",
+            "placeholder":"ví dụ: http://abc.com/xyz"
+        },
+        "code": {
+            "type": "textarea",
+            "label": "Mã quảng cáo",
+            "placeholder":"Viết gì đó",
+            "className": "auto-height"
+        }
+        
+    }
+}

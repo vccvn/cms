@@ -1,0 +1,19 @@
+[2020-06-22 23:16:58] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /
+[2020-06-22 23:18:05] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /static/themes/home2-large-5ee2e20160dfd.png
+[2020-06-22 23:20:28] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /static/themes/home2-large-5ee2e20160dfd.png
+[2020-06-22 23:20:41] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /static/themes/home2-large-5ee2e20160dfd.png
+[2020-06-22 23:21:31] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /
+[2020-06-22 23:21:57] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /assets/css/bg-image/banner-bg.jpg
+[2020-06-22 23:21:57] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /assets/css/bg-image/product-bg.jpg
+[2020-06-22 23:21:57] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /assets/css/bg-image/product-2.jpg
+[2020-06-22 23:21:58] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /assets/css/bg-image/footer-bg.jpg
+[2020-06-22 23:24:43] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /
+[2020-06-22 23:24:46] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /assets/images/clients/clients_bg.jpg
+[2020-06-22 23:24:46] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /assets/css/bg-image/banner-bg.jpg
+
+[2020-06-22 23:24:46] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /assets/css/bg-image/contact-bg.jpg
+[2020-06-22 23:24:46] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /assets/css/bg-image/product-2.jpg
+[2020-06-22 23:28:45] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /
+[2020-06-22 23:53:26] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /
+[2020-06-22 23:53:31] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /check-auth
+[2020-06-22 23:53:32] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /cart/check-data

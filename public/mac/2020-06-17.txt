@@ -1,0 +1,11 @@
+[2020-06-17 00:01:15] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /tai-lieu/quyen-truy-cap
+[2020-06-17 00:02:25] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /tai-lieu/menu-chinh
+[2020-06-17 00:02:26] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /static/posts/90x90/classic-02-5ee5d807f2d70.jpg
+[2020-06-17 00:02:26] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /static/posts/90x90/default.png
+[2020-06-17 00:06:03] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /tai-lieu.html?s=
+[2020-06-17 00:06:05] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /static/posts/90x90/default.png
+[2020-06-17 00:06:05] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /static/posts/90x90/classic-02-5ee5d807f2d70.jpg
+[2020-06-17 00:06:05] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /static/posts/90x90/classic-03-5ee5d84cd54dd.jpg
+[2020-06-17 00:06:05] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /static/posts/90x90/classic-01-5ee5d7dd93cae.jpg
+[2020-06-17 00:35:36] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /
+[2020-06-17 00:40:24] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /

@@ -1,0 +1,15 @@
+{
+    "name": "Desktop - Footer: Footer Bottom",
+    "inputs":{
+        "desktop_copyright": {
+            "type": "textarea",
+            "label": "Copyright"
+        },
+        "desktop_menu_id": {
+            "type": "crazyselect",
+            "label": "Menu",
+            "call": "get_menu_options",
+            "parans": [[], "Chọn một"]
+        }
+    }
+}

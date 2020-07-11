@@ -1,0 +1,21 @@
+{
+    "name": "Mobile - Hone: Service Item ",
+    "inputs": {
+        "title": {
+            "type": "text",
+            "label": "Tiêu đề",
+            "placeholder":"Ví dụ Miễn phí giao hàng"
+        },
+        "description": {
+            "type": "textarea",
+            "label": "Mô tả (tùy chọn)",
+            "placeholder": "Viết gì đó..."
+        },
+        "icon": {
+            "type": "iconpicker",
+            "label": "Biểu tượng",
+            "placeholder": "Ví dụ: fa fa-rocket"
+        }
+        
+    }
+}

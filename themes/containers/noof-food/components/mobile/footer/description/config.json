@@ -1,0 +1,11 @@
+{
+    "name": "Mobile - Footer: Description",
+    "inputs": {
+        "description": {
+            "type": "textarea",
+            "label": "Mô tả (tùy chọn)",
+            "placeholder": "Viết gì đó..."
+        }
+        
+    }
+}

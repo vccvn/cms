@@ -1,0 +1,46 @@
+{
+    "web_type_list": {
+        "default": "Mặc định",
+        "blog": "Blog",
+        "personal": "Trang Cá nhân",
+        "business": "Business",
+        "news": "Tin tức",
+        "ecommerce": "Thương mại điện tử"
+    },
+    "domain_list": [
+        "chinhlatoi.vn", "chinhlatoi.com", "vcc.vn"
+    ],
+    "web_modules": {
+        "base":["pages", "dynamics", "files","tags", "contacts", "comments", "subcribes", "sliders","menus", "settings", "embeds", "themes", "components", "account"],
+        "default": [
+            "users", "permissions","crawlers"
+        ],
+        "news": [
+            "users", "permissions","crawlers"
+        ],
+        "ecommerce": [
+            "users","permissions","products","promos","orders","customers","transactions","crawlers", "affiliates"
+        ],
+        "personal": [
+            "profile", "skills", "works", "organizations","academics", "experiences", "education", "projects", "clients", "feedback", "testimonials"
+        ],
+        "business": [
+            "users", "permissions", "projects", "clients", "feedback", "teams", "testimonials", "transactions"
+        ]
+    },
+    "times": {
+        "start": "1900-01-01",
+        "finish": "2200-12-31"
+    },
+    "backend": {
+        
+    },
+    "frontend": {
+        "css": {
+            "prefix_class": "crazy-"
+        },
+        "js": {
+            "object": "Crazy"
+        }
+    }
+}

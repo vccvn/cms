@@ -1,0 +1,27 @@
+{
+    "name": "Desktop - Home: Product Tab Area",
+    "inputs": {
+        "sub_title": {
+            "type": "text",
+            "label": "Tiêu đề nhỏ",
+            "placeholder": "Ví dụ: Welcome to Web102"
+        },
+        "title": {
+            "type": "text",
+            "label": "Tiêu đề"
+        },
+        "background": {
+            "type": "file",
+            "label": "Hình nền",
+            "accept": "image/*"
+        },
+        "icon": {
+            "type": "file",
+            "label": "Icon (ảnh)",
+            "accept": "image/*"
+        }
+    },
+    "data": {
+        "container": "ps-container"
+    }
+}

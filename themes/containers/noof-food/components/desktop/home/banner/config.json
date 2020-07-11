@@ -1,0 +1,41 @@
+{
+    "name": "Desktop - Home: Banner",
+    "inputs": {
+        "sub_title": {
+            "type": "text",
+            "label": "Tiêu đề nhỏ",
+            "placeholder": "Ví dụ: Welcome to Web102"
+        },
+        "title": {
+            "type": "text",
+            "label": "Tiêu đề chính",
+            "placeholder": "Ví dụ: Món ăn ngon nhất Việt Nam"
+        },
+        "title_2": {
+            "type": "text",
+            "label": "Tiêu đề phụ",
+            "placeholder": "Ví dụ: Miễn phí giao hàng"
+        },
+        "button_1_link": {
+            "type": "text",
+            "label": "Đường dẫn button 1",
+            "placeholder": "Ví dụ: http://example.com"
+        },
+        "button_1_text": {
+            "type": "text",
+            "label": "Text hiển thị của button 1",
+            "placeholder": "Ví dụ: Đặt hàng"
+        },
+        "button_2_link": {
+            "type": "text",
+            "label": "Đường dẫn button 2",
+            "placeholder": "Ví dụ: http://example2.com"
+        },
+        "button_2_text": {
+            "type": "text",
+            "label": "Text hiển thị của button 2",
+            "placeholder": "Ví dụ: Cem Menu"
+        }
+        
+    }
+}

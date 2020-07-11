@@ -1,0 +1,10 @@
+{
+    "name": "Desktop - Footer: Widget Area",
+    "inputs":{
+        "background": {
+            "type": "file",
+            "label": "Hình nền (Tùy chọn)",
+            "accept": "image/*"
+        }
+    }
+}

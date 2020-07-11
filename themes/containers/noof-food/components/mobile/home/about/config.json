@@ -1,0 +1,20 @@
+{
+    "name": "Mobile - Hone: About Us",
+    "inputs": {
+        "title": {
+            "type": "text",
+            "label": "Tiêu đề",
+            "placeholder":"Ví dụ Giói thiệu"
+        },
+        "image": {
+            "type": "file",
+            "label": "Ãnh"
+        },
+        "description": {
+            "type": "textarea",
+            "label": "Mô tả (tùy chọn)",
+            "placeholder": "Viết gì đó..."
+        }
+        
+    }
+}

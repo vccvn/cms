@@ -1,0 +1,34 @@
+{
+    "name": "Mobile - Home: Product Category area",
+    "inputs": {
+        "title": {
+            "type": "text",
+            "label": "Tiêu đề"
+        },
+        "list_type": {
+            "type": "radio",
+            "label": "Kiểu danh sách",
+            "data": {
+                "data": "Trong bảng Danh mục",
+                "custom": "Danh sách tùy biến"
+            },
+            "value": "data"
+        },
+        "cate_number": {
+            "type": "number",
+            "label": "Số lượng",
+            "value": 6
+        },
+        "sort_type": {
+            "type": "crazyselect",
+            "label": "Sắp xếp",
+            "data": {
+                "id-ASC": "Mặc định",
+                "id-DESC": "Mới nhất",
+                "name-ASC": "hứ tự bảng chự cái",
+                "best-seller": "Bán chạy"
+            },
+            "value": "id-ASC"
+        }
+    }
+}

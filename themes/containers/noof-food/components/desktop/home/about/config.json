@@ -1,0 +1,36 @@
+{
+    "name": "Desktop - Home: About",
+    "inputs": {
+        "sub_title": {
+            "type": "text",
+            "label": "Tiêu đề nhỏ",
+            "placeholder": "Ví dụ: Welcome to Web102"
+        },
+        "title": {
+            "type": "text",
+            "label": "Tiêu đề chính",
+            "placeholder": "Ví dụ: Món ăn ngon nhất Việt Nam"
+        },
+        "description": {
+            "type": "textarea",
+            "label": "Nội dung",
+            "className": "auto-height",
+            "placeholder": "Viết gì đó..."
+        },
+        "image": {
+            "type": "file",
+            "label": "File ảnh",
+            "accept": "image/*"
+        },
+        "button_link": {
+            "type": "text",
+            "label": "Đường dẫn button",
+            "placeholder": "Ví dụ: http://example.com"
+        },
+        "button_text": {
+            "type": "text",
+            "label": "Text hiển thị của button",
+            "placeholder": "Ví dụ: Đặt hàng"
+        }       
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Mobile - Footer: Copyright",
+    "inputs": {
+        "copyright": {
+            "type": "textarea",
+            "label": "Copyright (tùy chọn)",
+            "placeholder": "Viết gì đó..."
+        }
+        
+    }
+}

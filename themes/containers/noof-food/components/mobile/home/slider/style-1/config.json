@@ -1,0 +1,15 @@
+{
+    "name": "Mobile - Home: Slider Style 1",
+    "inputs": {
+        "slider_id": {
+            "type": "select",
+            "label": "Slider",
+            "call": "Helper::getSliderOptions"
+        },
+        "button_text": {
+            "type": "text",
+            "label": "Nút bấm",
+            "placeholder": "Chi tiết"
+        }
+    }
+}

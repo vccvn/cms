@@ -1,0 +1,15 @@
+{
+    "name": "Desktop - Home: Sponsor (Slider)",
+    "inputs": {
+        "title": {
+            "type": "text",
+            "label": "Tiêu đề",
+            "placeholder": "Ví dụ: Nhãn hàng / Nhà tài trợ"
+        },
+        "slider_id": {
+            "type": "select",
+            "label": "Slider",
+            "call": "Helper::getSliderOptions"
+        }
+    }
+}

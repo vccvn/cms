@@ -1,0 +1,15 @@
+<?php
+
+$year = Carbon::now()->format('Y');
+$month = Carbon::now()->format('m');
+$day = Carbon::now()->format('d');
+
+$path = DIRECTORY_SEPARATOR . $year . DIRECTORY_SEPARATOR . $month . DIRECTORY_SEPARATOR . $day . DIRECTORY_SEPARATOR;
+$full_path = base_path('public') . DIRECTORY_SEPARATOR . config('app.upload_base_folder_images') . $path;
+$string_folder = str_replace(DIRECTORY_SEPARATOR, '_', $path);
+$string_folder = rtrim($string_folder, '_');
+File::isDirectory($full_path) or File::makeDirectory($full_path, 0777, true, true);
+
+// đoạn trước tôi viết, tạo folder backup image theo năm tháng ngày size
+Crypt::decryptString(string_cookie)
+?>

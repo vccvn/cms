@@ -1,0 +1,7 @@
+[2020-05-30 09:23:34] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /
+[2020-05-30 09:24:04] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /dang-ky.html
+[2020-05-30 09:24:05] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /home
+[2020-05-30 09:47:23] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /logout
+[2020-05-30 09:47:23] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /
+[2020-05-30 09:47:31] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /login
+[2020-05-30 09:48:37] ip: 127.0.0.1, mac: , OS: Windows 10, Brower: Chrome, path: /post-login

@@ -1,0 +1,21 @@
+{
+    "name": "Mobile - Footer: Contacts",
+    "inputs": {
+        "address": {
+            "type": "text",
+            "Label": "Địa chỉ",
+            "placeholder": "Mặc dịnh sẽ lấy từ thiết lập thông tin wwbsite"
+        },
+        "email": {
+            "type": "text",
+            "Label": "Email",
+            "placeholder": "Mặc dịnh sẽ lấy từ thiết lập thông tin wwbsite"
+        },
+        "phone_number": {
+            "type": "text",
+            "Label": "Số điện thoại",
+            "placeholder": "Mặc dịnh sẽ lấy từ thiết lập thông tin wwbsite"
+        }
+        
+    }
+}

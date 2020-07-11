@@ -1,0 +1,26 @@
+{
+    "name": "Mobile - Hone: Product Category Item",
+    "inputs": {
+        "category_id": {
+            "type": "crazyselect",
+            "label": "Danh mục",
+            "call": "get_product_category_options"
+        },
+        "image": {
+            "type": "file",
+            "label": "Ãnh (Tùy chỉnh)"
+        },
+        "name": {
+            "type": "text",
+            "label": "Tên danh mục tùy biến",
+            "placeholder":"Không bắt buộc. (Ví dụ Cơm rang) "
+        },
+        "link": {
+            "type": "text",
+            "label": "URL (Tùy chọn)",
+            "placeholder": "Ví dụ: http://example.com"
+        }
+        
+        
+    }
+}

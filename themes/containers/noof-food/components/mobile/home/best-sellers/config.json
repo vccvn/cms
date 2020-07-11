@@ -1,0 +1,26 @@
+{
+    "name": "Mobile - Home: Best Sellers",
+    "inputs": {
+        "title": {
+            "type": "text",
+            "label": "Tiêu đề"
+        },
+        "category_id": {
+            "type": "crazyselect",
+            "label": "Danh mục",
+            "call": "get_product_category_options"
+        },
+        "product_number": {
+            "type" : "number",
+            "label": "Số sản phẩm hiển thị",
+            "min": 1,
+            "step": 1,
+            "default": 4
+        },
+        "sorttype": {
+            "type": "crazyselect",
+            "label": "kiểu sắp xếp SP",
+            "call": "get_product_sortby_options"
+        }
+    }
+}

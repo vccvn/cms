@@ -1,0 +1,35 @@
+{
+    "name": "Desktop - Home: Mục Liên hệ",
+    "inputs": {
+        "sub_title": {
+            "type": "text",
+            "label": "Tiêu đề nhỏ",
+            "placeholder": ""
+        },
+        "title": {
+            "type": "text",
+            "label": "Tiêu đề",
+            "placeholder": "Ví dụ: Liên hệ chúng tôi"
+        },
+        "background": {
+            "type": "file",
+            "label": "Hình nền",
+            "accept": "image/*"
+        },
+        "icon": {
+            "type": "file",
+            "label": "Icon (ảnh)",
+            "accept": "image/*"
+        },
+        "image": {
+            "type": "file",
+            "label": "Ảnh minh họa",
+            "accept": "image/*"
+        },
+        "button_text": {
+            "type": "text",
+            "label": "Nút gửi",
+            "value": "Gửi liên hệ"
+        }
+    }
+}

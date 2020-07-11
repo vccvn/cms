@@ -1,0 +1,15 @@
+{
+    "name": "Mobile - Hone: Newsletter ",
+    "inputs": {
+        "title": {
+            "type": "text",
+            "label": "Tiêu đề"
+        },
+        "description": {
+            "type": "textarea",
+            "label": "Mô tả (tùy chọn)",
+            "placeholder": "Viết gì đó..."
+        }
+        
+    }
+}

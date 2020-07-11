@@ -1,0 +1,39 @@
+{
+    "name": "Mobile - Home: Review Item",
+    "inputs": {
+        "name": {
+            "type": "text",
+            "label": "Tên người đánh giá",
+            "placeholder": "Ví dụ: Nguyễn Văn A"
+        },
+        "avatar": {
+            "type": "file",
+            "label": "Ãnh đại diện"
+        },
+        "link": {
+            "type": "text",
+            "label": "Liên kết (tùy chọn)",
+            "placeholder": "Ví dụ: http://www.facebook.com/LeNgocDoan"
+        },
+        "rating": {
+            "type": "radio",
+            "label": "Xếp hạng",
+            "data": {
+                "1": "1 Sao",
+                "2": "2 Sao",
+                "3": "3 Sao",
+                "4": "4 Sao",
+                "5": "5 Sao"
+            },
+            "default": 5
+        },
+        "comment": {
+            "type": "textarea",
+            "label": "Đánh giá",
+            "className": "auto-height",
+            "placeholder": "Ví dụ: Very grateful to have found this app. D&L team did a fantastic job..."
+        }
+    },
+    "data": {
+    }
+}

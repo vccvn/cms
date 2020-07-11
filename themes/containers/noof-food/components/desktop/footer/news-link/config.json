@@ -1,0 +1,41 @@
+{
+    "name": "Desktop - Footer: News Link",
+    "inputs":{
+        "logo": {
+            "type": "file",
+            "label": "Logo (Tùy chọn)",
+            "accept": "image/*"
+        },
+        "link": {
+            "type": "text",
+            "label": "Đường dẫn",
+            "placeholder": "Ví dụ: http://vcc.vn"
+        },
+        "slogan": {
+            "type": "text",
+            "label": "Slogan",
+            "placeholder": "Ví dụ: Máy lọc nước hàng đầu Việt Nam"
+        },
+        "right_title": {
+            "type": "text",
+            "label": "Tiêu đề bên phải",
+            "placeholder": "Ví dụ: Máy lọc nước hàng đầu Việt Nam"
+        },
+        "show_button": {
+            "type": "switch",
+            "label": "Button",
+            "check_label": "Hiển thị button",
+            "value_type": "boolean"
+        },
+        "button_link": {
+            "type": "text",
+            "label": "Đường dẫn của button",
+            "placeholder": "Ví dụ: http://vcc.vn"
+        },
+        "button_text": {
+            "type": "text",
+            "label": "Text hiển thĩ trong button",
+            "placeholder": "Ví dụ: Xem thêm"
+        }
+    }
+}
